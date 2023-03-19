@@ -1,4 +1,4 @@
-module github.com/pandasoli/go-term
+module github.com/pandasoli/goterm
 
 go 1.19
 
