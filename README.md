@@ -21,3 +21,4 @@ $ go get -u github.com/pandasoli/go-term
 [Sizes and Positions](doc/sizes-and-positions.md)  
 [Raw Mode](doc/raw-mode.md)  
 [Keys](doc/keys.md)
+[Visual](doc/visual.md)
