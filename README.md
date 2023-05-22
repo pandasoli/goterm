@@ -11,7 +11,7 @@ And [ColorString](https://github.com/pandasoli/colorstring) for string with colo
 
 To use this pack add it as dependency of your project running:
 ```bash
-$ go get -u github.com/pandasoli/go-term
+$ go get -u github.com/pandasoli/goterm
 ```
 
 <br/>
